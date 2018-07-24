@@ -1,0 +1,38 @@
+body{
+	background-color: skyblue;
+	margin:20px;
+}
+
+.name{
+	color: grey;
+}
+
+.heads{
+	background-color: orange;
+	display:inline;
+}
+
+p{
+	font-weight: bold;
+}
+
+#face{
+	border-radius: 150px;
+}
+
+#exp,#per{
+	display: inline-block;
+	padding: 10%;
+}
+
+.titi{
+	background-color: orange;
+}
+
+#chili:hover{
+	color: darkblue;
+}
+
+#omm:hover{
+	color: darkred;
+}
